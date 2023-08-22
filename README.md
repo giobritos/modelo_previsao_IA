@@ -132,9 +132,7 @@ plt.show()
 
 1. Certifique-se de ter o Python instalado em seu computador.
 2. Instale as bibliotecas necessárias com os comandos `pip install matplotlib`, `pip install seaborn` e `pip install scikit-learn`.
-3. Faça o download dos ar
-
-quivos "advertising.csv" e "novos.csv" contendo os dados originais e novos dados para previsão, respectivamente.
+3. Faça o download dos arquivos "advertising.csv" e "novos.csv" contendo os dados originais e novos dados para previsão, respectivamente.
 4. Execute o código acima para realizar a análise exploratória, treinamento dos modelos, avaliação dos resultados e visualização gráfica.
 
 ## Conclusão
